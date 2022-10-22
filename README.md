@@ -1,16 +1,14 @@
-# loginui
+# Login Screen UI
 
-A new Flutter project.
+ScreenShot..
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2022-10-22 at 18 25 01](https://user-images.githubusercontent.com/116195220/197350744-8d0b7b73-2c69-4ff1-ab74-93a191190aaf.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Videos
+
+https://user-images.githubusercontent.com/116195220/197350762-e9af78af-4856-4a3e-a00d-bdef93760fe7.mp4
+
